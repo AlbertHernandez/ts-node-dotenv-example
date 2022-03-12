@@ -1,8 +1,8 @@
 <h1 align="center">🚀</h1>
-<h3 align="center">TS Node Hexagonal Template</h3>
+<h3 align="center">TS Node DotEnv Example</h3>
 
 <p align="center">
- Template for a basic Node application that uses hexagonal architecture
+ Example of a Typescript Node Application that uses Dotenv for env vars
 </p>
 
 ## Table of Contents
